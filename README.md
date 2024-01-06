@@ -22,7 +22,7 @@ In postman -> Body -> raw , pass the JSON value as:
     "url":"http://www.google.com"
     }
 
-    ![Post](https://github.com/Supraav/golang-URL-Shortner/assets/47569979/aae8bf77-3e86-4320-bfac-2132b2b2c1cf)
+![Post](https://github.com/Supraav/golang-URL-Shortner/assets/47569979/aae8bf77-3e86-4320-bfac-2132b2b2c1cf)
 
 A respone base62 shortcode will be generated
 
