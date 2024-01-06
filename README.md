@@ -34,3 +34,5 @@ paste the received shortcode in the browser as:
 
 which redirects to the google's homepage
 
+
+![get](https://github.com/Supraav/golang-URL-Shortner/assets/47569979/db06562a-4feb-4302-89d4-257e04868f0e)
